@@ -11,7 +11,7 @@
   "miniprogram": "miniprogram_dist",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wechat-miniprogram/lottie-miniprogram.git"
+    "url": "git+https://github.com/zdxf-jack/lottie-miniprogram.git"
   },
   "keywords": [
     "lottie",
@@ -34,7 +34,7 @@
     "string-replace-loader": "^2.2.0",
     "webpack": "^4.39.1",
     "webpack-cli": "^3.3.6",
-    "lottie-web": "^5.7.4",
+    "lottie-web": "5.10.0",
     "copy-webpack-plugin": "^6.0.3"
   }
 }
